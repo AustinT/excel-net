@@ -1,8 +1,15 @@
 # excel-net
-A basic neural net implementation in Microsoft Excel (done ironically)
+A basic neural net implementation in Microsoft Excel (done ironically). Seriously, don't use this repo I beg you.  
 
-Seriously, don't use this repo. I beg you. But... if you are curious... here is how you can run a super simple perceptron in excel.
+But... if you are curious... here is how you can run a super simple perceptron in excel. You will find this useful if:  
+1) You are unfamiliar with programming, but want to see an implementation of a neural net done in software you understand (Excel)  
+2) You are familiar with programming, and want to see an implementation of a neural net in the worst way possible.  
 
+# What are neural nets?
+Neural nets are a type of "universal function approximator", meaning that it can be fit to output anything given any input. I recommend looking here for more information: http://neuralnetworksanddeeplearning.com/index.html
+
+
+# Description and instructions
 The model learns a function of one variable, with a single hidden layer with tanh activation, and a single output layer with linear activation. To use it, download the excel file and open it.
 
 ## Step 1
